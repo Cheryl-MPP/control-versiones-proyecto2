@@ -1,1 +1,0 @@
-Versión 1 - Vista original del módulo de compras sin imágenes, precios ni botón de compra.
